@@ -1,20 +1,20 @@
 Hi there, I'm Aravinth Meganathan!
 
 Data Scientist and Machine Learning Engineer with expertise in leveraging data-driven insights to solve complex problems. Passionate about developing innovative solutions using machine learning algorithms and advanced analytics techniques. Skilled in Python, SQL, and data visualization.
-
 Projects:
 
-1. BERT-Based Sentiment Analysis of Online Class App Feedback:
+1. [BERT-Based Sentiment Analysis of Online Class App Feedback](https://github.com/Aravinth-Megnath/NLP-Project/tree/main)
    - Developed a deep learning model for sentiment analysis of online class app feedback using BERT.
    - Achieved 84% accuracy by focusing on high precision for positive sentiments and high recall for negative sentiments.
 
-2. Crab Age Prediction:
+2. [Crab Age Prediction](https://github.com/Aravinth-Megnath/Crab_age)
    - Developed a machine learning model to predict the age of crabs based on physical characteristics.
    - Achieved an R-squared value of 0.59 using the random forest regression algorithm.
 
-3. Delivery Cost Analysis & Billing Discrepancy Detection:
+3. [Delivery Cost Analysis & Billing Discrepancy Detection](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/tree/main)
    - Built a Python-based system for analyzing delivery costs and detecting billing discrepancies in e-commerce companies.
    - Utilized Pandas and Numpy for data cleaning and analysis, resulting in reduced operational costs.
+
 
 Skills:
 Python | SQL | Machine Learning | Deep Learning | Data Visualization | Natural Language Processing
