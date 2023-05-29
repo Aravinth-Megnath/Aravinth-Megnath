@@ -26,4 +26,4 @@ Contributions:
 I'm always open to interesting conversations and collaboration. Feel free to reach out to me via email or LinkedIn.
 
 Email: aravinthmegnath@gmail.com
-LinkedIn: [https://www.linkedin.com/in/aravinth-meganathan-200667a1/]
+LinkedIn: https://www.linkedin.com/in/aravinth-meganathan-200667a1/
