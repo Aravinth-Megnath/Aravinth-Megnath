@@ -3,7 +3,7 @@ Hi there, I'm Aravinth Meganathan!
 Data Scientist and Machine Learning Engineer with expertise in leveraging data-driven insights to solve complex problems. Passionate about developing innovative solutions using machine learning algorithms and advanced analytics techniques. Skilled in Python, SQL, and data visualization.
 Projects:
 
-1.[Enhancing User Experience: Text Classification for Online App using DistilBertTokenizerFast](https://github.com/Aravinth-Megnath/Text_classification-Distilbert/tree/main)
+1. [Enhancing User Experience: Text Classification for Online App using DistilBertTokenizerFast](https://github.com/Aravinth-Megnath/Text_classification-Distilbert/tree/main)
    - Executed successful text classification using the DistilBERT model.
    - Achieved remarkable precision, recall & F1-score of 1, showcasing excellence in sentiment analysis.
 
@@ -11,13 +11,17 @@ Projects:
    - Developed a deep learning model for sentiment analysis of online class app feedback using BERT.
    - Achieved 84% accuracy by focusing on high precision for positive sentiments and high recall for negative sentiments.
 
-3. [Crab Age Prediction](https://github.com/Aravinth-Megnath/Crab_age)
+
+3.[Time Series Forecasting - Time Series Forecasting for Mobile Shop Sales (Github)](https://github.com/Aravinth-Megnath/Time-Series-Forecasting)
+ - Led project on predictive sales forecasting for mobile shop using FBProphet and XGBoost.
+ - Achieved high accuracy: FBProphet MAPE 0.12%, XGBoost MAPE 0.11%.
+ - Enhanced business analytics and optimized inventory management in dynamic mobile market. 
+
+4. [Crab Age Prediction](https://github.com/Aravinth-Megnath/Crab_age)
    - Developed a machine learning model to predict the age of crabs based on physical characteristics.
    - Achieved an R-squared value of 0.59 using the random forest regression algorithm.
 
-4. [Delivery Cost Analysis & Billing Discrepancy Detection](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/tree/main)
-   - Built a Python-based system for analyzing delivery costs and detecting billing discrepancies in e-commerce companies.
-   - Utilized Pandas and Numpy for data cleaning and analysis, resulting in reduced operational costs.
+
 
 
 Skills:
