@@ -25,7 +25,7 @@ Projects:
 
 
 Skills:
-Python | SQL | Machine Learning | Deep Learning | Data Visualization | Natural Language Processing
+Python | SQL | Machine Learning | Deep Learning | Data Visualization | Natural Language Processing | Transformers
 
 Contributions:
 - Authored a blog on handling missing values in Medium, providing insights and practical solutions.
