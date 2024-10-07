@@ -11,15 +11,15 @@ Projects:
    - Developed a deep learning model for sentiment analysis of online class app feedback using BERT.
    - Achieved 84% accuracy by focusing on high precision for positive sentiments and high recall for negative sentiments.
 
+3. [Pizza Sales Forecasting and Ingredient Planning](https://github.com/Aravinth-Megnath/Pizza)
+   - A data-driven project that forecasts pizza sales for the next 3 months using time-series data and XGBoost regression.
+   - The project also predicts ingredient requirements based on the forecasted sales, helping optimize inventory management and reduce overstock or understock scenarios.
 
-3.[Time Series Forecasting - Time Series Forecasting for Mobile Shop Sales (Github)](https://github.com/Aravinth-Megnath/Time-Series-Forecasting)
+4.[Time Series Forecasting - Time Series Forecasting for Mobile Shop Sales (Github)](https://github.com/Aravinth-Megnath/Time-Series-Forecasting)
  - Led project on predictive sales forecasting for mobile shop using FBProphet and XGBoost.
  - Achieved high accuracy: FBProphet MAPE 0.12%, XGBoost MAPE 0.11%.
  - Enhanced business analytics and optimized inventory management in dynamic mobile market. 
 
-4. [Crab Age Prediction](https://github.com/Aravinth-Megnath/Crab_age)
-   - Developed a machine learning model to predict the age of crabs based on physical characteristics.
-   - Achieved an R-squared value of 0.59 using the random forest regression algorithm.
 
 
 
